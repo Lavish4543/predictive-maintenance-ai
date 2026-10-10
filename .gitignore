@@ -20,5 +20,6 @@ Thumbs.db
 
 # Logs
 *.log
+
 # Generated evaluation output
 ml/models/threshold_validation_results.csv
